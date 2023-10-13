@@ -1,0 +1,13 @@
+# local package
+-e .
+
+# external requirements
+numpy==1.19.5
+scikit-learn==0.24.1
+pandas==1.1.5
+opencv-python==4.8.1.78
+mediapipe==0.15.5
+pyyaml==6.0
+tensorflow==2.10.0
+flake8
+python-dotenv>=0.5.1
