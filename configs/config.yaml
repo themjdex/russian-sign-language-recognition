@@ -1,7 +1,7 @@
 input_data_path: 'data/keypoint.csv'
-output_model_path: 'models/point_cls.hdf5'
-output_tflite_path: 'models/point_cls.tflite'
-metric_path: 'models/metrics.json'
+output_model_path: 'model/point_cls.hdf5'
+output_tflite_path: 'model/point_cls.tflite'
+metric_path: 'model/metrics.json'
 splitting_params:
   val_size: 0.25
   random_state: 42
